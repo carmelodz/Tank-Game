@@ -1,3 +1,5 @@
+<img width="1938" height="1404" alt="Tank Wars Cap" src="https://github.com/user-attachments/assets/023f4340-02f2-4919-bd5d-989f1c05fe10" />
+
 # Tank Wars
 
 A 2D tank game written in Java where 2 players battle each other's tanks. Built as a solo project at San Francisco State University (April 2022).
